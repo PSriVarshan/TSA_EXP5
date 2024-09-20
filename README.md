@@ -6,7 +6,8 @@
 
 
 ### AIM:
-To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
+
+To Illustrates how to perform time series analysis and decomposition on the monthly tank losses in Russian War
 
 ### ALGORITHM:
 
